@@ -1,0 +1,6 @@
+C:\Users\dmsdk\Documents\Visual Studio 2017\Projects\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\Users\dmsdk\Documents\Visual Studio 2017\Projects\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+C:\Users\dmsdk\Documents\Visual Studio 2017\Projects\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csprojAssemblyReference.cache
+C:\Users\dmsdk\Documents\Visual Studio 2017\Projects\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\dmsdk\Documents\Visual Studio 2017\Projects\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\Users\dmsdk\Documents\Visual Studio 2017\Projects\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
